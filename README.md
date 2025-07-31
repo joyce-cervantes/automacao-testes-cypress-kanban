@@ -16,15 +16,13 @@ Este repositório contém um projeto de automação de testes end-to-end utiliza
 
 ## Estrutura
 
+```bash
 cypress/
 ├── e2e/kanban/
 ├── fixtures/
 ├── support/
 pages/
-
-yaml
-Copiar
-Editar
+```
 
 ---
 
@@ -38,20 +36,9 @@ npm run cy:open
 
 
 
-**⚠️ Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub!**
+⚠️ Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub!
 
 ---
-
-### 💾 Passo 4 – Salvar e enviar para o GitHub
-
-Agora salve o arquivo (`Ctrl + S`) e volte ao terminal e digite:
-
-```bash
-git add README.md
-git commit -m "docs: adiciona README.md com instruções do projeto"
-git push
-
-
 
 Autora
 Joyce Cervantes
