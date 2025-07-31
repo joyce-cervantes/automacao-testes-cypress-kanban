@@ -1,0 +1,10 @@
+# Ignorar dependências
+node_modules/
+
+# Ignorar arquivos de Cypress
+cypress/screenshots/
+cypress/videos/
+
+# Arquivos sensíveis ou locais
+.env
+.DS_Store
